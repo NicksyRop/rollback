@@ -1,6 +1,6 @@
 # rollback
 
-### configurations - add the following to cirlce ci project settings
+### configurations - add the following to cirlce ci project settings to be used to do programatic access by IAM user
 
 AWS_ACCESS_KEY_ID
 AWS_DEFAULT_REGION
